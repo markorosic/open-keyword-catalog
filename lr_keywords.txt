@@ -1,0 +1,136 @@
+[Concepts]
+	Abstract
+	Cooperation
+	Environmental Conservation
+	Exhilaration
+	Failure
+	Friendship
+	Gratitude
+	Happiness
+	Health
+	Humor
+	Innocence
+	Innovation
+	Intelligence
+	Journey
+	Leadership
+	Luck
+	Luxury
+	Mischief
+	Miserly
+	Modern
+	Mystery
+	Nightlife
+	On The Move
+	Out Of Context
+	Repetition
+	Resourceful
+	Retro Revival
+	Revenge
+	Risk
+	Safety
+	Serene People
+	Simplicity
+	Slow
+	Solitude
+	Success
+	Togetherness
+	Tranquility
+	Vitality
+	Wasting Time 
+	Zen
+People
+	[Body]
+		[Pose]
+			Arm Outstretched
+			Arms Crossed
+			Cross Legged
+			Hand In Pocket
+			Hand On Hip
+			Hands Clasped
+			Interlaced Fingers
+			Waving
+			Legs Crossed
+			Sitting
+			Standing
+			Lying Down
+		[Build]
+			Burly
+			Chubby
+			Obese
+			Muscular
+			Toned
+			Skinny
+			Stocky			
+		Head
+			Hair
+??				Style 
+
+			Face
+				[Eyes]
+					Amber Eyes
+					Blue Eyes
+					Brown Eyes
+					Grey Eyes
+					Green Eyes
+					Hazel Eyes
+					Red Eyes
+					Violet Eyes
+				[Expressions]							
+					Finger To Lips
+					Frowning
+					Pursed Lip
+					Smiling
+					Crying					
+	[Emotions]
+		Joy
+		Surprise
+		Fear
+		Anger
+		Disgust
+		Sadness		
+		Concentration
+		Confusion
+		Contempt
+		Desire
+		Excitement
+		Empathy
+		Flirt
+		Frustration
+		Glaring
+		Happiness
+		Love
+		Sadness
+		Snarl
+		Shame
+		Envy		
+	[Feelings]
+		Optimism
+		Submission
+		Awe
+		Disappointment
+		Remorse
+		Aggression		
+		Disapproval
+		
+[Topics]
+	Après-ski
+	Banking
+	Business travel
+	Capital cities
+	Childbirth
+	City break
+	Eco tourism
+	Education
+	Finance
+	Global business
+	Life events
+	Lifestyles
+	Population explosion
+	Recession
+	Retirement
+	Traditional culture
+	Travel destinations
+	Vacations
+	Work romance
+	Working overtime

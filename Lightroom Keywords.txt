@@ -1,0 +1,1479 @@
+[_Foto]
+	Bokeh
+	Duotone
+	Editorial
+	Isolated
+	Landscape
+		Cloudscape
+		Mountainscape
+		Waterscape
+			{Seascape}
+	[Light Source]
+		Natural Light
+			Sun Light
+		Strobe
+			One Light
+	Macro
+		{Makro}
+		{Макро}
+	Monochrome
+		Black And White
+			{Grayscale}
+	Portrait
+		{Portret}
+		{Портрет}
+		Fine Art Portrait
+		Self-portrait
+			{Autoportrait}
+			{Autoportret}
+			{Аутопортрет}
+			{Self}
+	Selective Color
+	Tilt Shift
+		{tilt-shift}
+	Travel
+	Urban sceene
+Activity
+	{Aktivnost}
+	Carneval
+		{Karneval}
+	Feeding
+	flight
+	Game
+		Billiard
+	Playing
+		{Igranje}
+	Sport
+		Dancing
+			Salsa
+		Ninjutsu
+		Rowing
+		Training
+			{Trening}
+		Voleyball
+[Behaviors]
+	[Animal]
+		Foraging
+			Fishing
+			Flying
+			Hunting
+			Killing
+			Mating
+			Nourishing
+			Swimming
+		Running
+		Sleeping
+		Sprinting
+		Standing
+		Walking
+	Emotional
+		Angry
+		Happy
+		Sad
+[Buildings]
+	Agricultural Buildings
+		Barn
+		Chicken coop
+		Chickenhouse
+		Farmhouse
+		Grainery
+		Greenhouse
+		Hayloft
+		Horse mill
+		Pigpen
+		Root cellar
+		Shed
+		Silo
+		Stable
+		Storm cellar
+		Sty
+		Tide mill
+		Watermill
+		Well house
+		Wind mill
+	[Building Parts]
+		cieling
+			ciel
+		Dome
+		elevator
+		fence
+			{ograda}
+		roof
+			rooftop
+	Commercial Buildings
+		Bank
+		Bar
+		Brothel
+		Casino
+		Coffee house
+		Convention center
+		Forum
+		Gas station
+		Hotel
+		Market
+		Motel
+		Nightclub
+		Office
+		Pub
+		Restaurant
+		Shop
+		Shopping mall
+			{Mall}
+		Skyscraper
+		Store
+		Supermarket
+		Warehouse
+	Educational Buildings
+		Classroom Building
+		College
+		Dormitory
+		Gymnasium
+		Library
+		School
+		Students' union
+		University
+	Government Buildings
+		Capitol
+		City hall
+		Consulate
+		Courthouse
+		Embassy
+		Fire station
+		Hospital
+		Palace
+		Parliament
+		Police station
+		Post office
+		Prison
+	Industrial Buildings
+		Brewery
+		Factory
+		Foundry
+		Mill
+		Mining
+		Power plant
+		Refinery
+	Leisure Buildings
+		Art gallery
+		Museum
+		Stadium
+		Theater
+			Amphitheater
+			Concert hall
+			Movie theater
+			Opera house
+			Symphony Hall
+	Military Buildings
+		Barracks
+		Blockhouse
+		Bunker
+		Castle
+		Citadel
+		City gate
+		Defensive wall
+		Fort
+		Fortification
+		Tower
+	Religious Buildings
+		Basilica
+		Cathedral
+		Chapel
+		Church
+		Fire Temple
+		Martyrium
+		Monastery
+		Mosque
+		Oratory
+		Pagoda
+		Pyramid
+		Shrine
+		Synagogue
+		Temple
+	Residential Buildings
+		Apartment block
+		Asylum
+		Condominium
+		Dormitory
+		Duplex
+		House
+			A-frame
+			Apartment
+			Bedsit
+			Brownstone
+			Bungalow
+			Chalet
+			Co-op
+			Colonial house
+			Condominium
+			Cottage
+			Deck House
+			Detached
+			Duplex
+			Farmhouse
+			Flat
+			Gablefront house
+			Garage-apartment
+			Houseboat
+			Igloo
+			Loft
+			Log cabin
+			Maisonette
+			Mansion
+			Mews
+			Mobile home
+			Penthouse
+			Prefab
+			Ranch
+			Roundhouse
+			Semi-Detached
+			Shack
+			Shophouse
+			Split-level house
+			Stilt houses
+			Studio apartment
+			Tenement
+			Tent
+			Terraced house
+			Tipi
+			Tower block
+			Travel trailer
+			Treehouse
+			Tudor
+			Victorian house
+			Villa
+			Yurt
+		Nursing home
+	Storage Buildings
+		Aircraft hangar
+		Boathouse
+		Garage
+		Shed
+		Storage silo
+		Warehouse
+	Transport Buildings
+		Airport
+			Airport terminal
+		Bridge
+		Bus station
+		Marina
+		Metro
+		Subway
+		Train station
+		Underground
+Clothes
+	Decolletage
+	Dress
+	Pants
+	Shirt
+[Colour]
+	{color}
+	Amber
+	Aquamarine
+	Azure
+	Beige
+	Black
+	Blue
+	Brown
+	Cerise
+	Chartreuse green
+	Coral
+	Crimson
+	Cyan
+	Gold
+	Gray
+	Green
+	Indigo
+	Lavender
+	Lilac
+	Lime
+	Magenta
+	Maroon
+	Mauve
+	Navy blue
+	Olive
+	Orange
+	Orange-red
+	Peach
+	Pink
+	Plum
+	Purple
+	Red
+	Red-violet
+	Rose
+	Scarlet
+	Silver
+	Spring green
+	Teal
+	Turquoise
+	Violet
+	Viridian
+	White
+	Yellow
+[Concepts]
+Culture
+	Architecture
+		{Arhitektura}
+		monument
+	Art
+		Music
+			jazz
+		pin-up
+	Band
+	Books
+	Brands
+		GSP
+		Ikea
+		kwak
+		Mercedes
+		myskin
+	deco
+	Design
+Economy
+	bank
+	bills
+	business
+	change
+	coins
+	credit
+	crisis
+	currency
+	deposit
+	earnings
+	euro
+	euros
+	finance
+		financial
+	inflation
+	money
+	pennies
+	piggybank
+	purchase
+	recession
+	save
+	saving
+		savings
+[Events]
+	{Događaji}
+	1. maj
+	101010
+	belgrade beer fest
+	Birthday
+	Book fair
+		{Sajam knjiga}
+	Car Show
+	Celine Dion
+	christmas
+	colloque
+	Concert
+	conference
+	dan rada
+	diploma
+	easter
+	Exibition
+		{Izložba}
+		{Изложба}
+	Festival
+	Funeral
+	gospojina
+	holiday
+	Market
+	matura
+	Neverne bebe
+	New Year
+		2007
+		new year 2010
+			{nova godina 2010}
+	new year 2010
+	Noc muzeja
+	nova godina 2010
+	party
+	Pena Party
+	RODJENDAN
+		2.
+		22.
+		24.
+		25.
+		27.
+		28.
+	rostilj
+	Seminar
+	simpozijum
+	Svadba
+	Vacation
+	vencanje
+	wedding
+	world wide photo walk 2011
+[Foods and Drinks]
+	bread
+	cheese
+	cherry tomato
+	cookies
+	Drink
+		{Beverage}
+		Beer
+			{Bière}
+		cafe
+		Mochito
+			{Mohito}
+		Tea
+			{Čaj}
+			{Чај}
+			Black tea
+				{Crni čaj}
+				{Црни чај}
+				English breakfast
+	sugar
+[Life]
+	Animal
+		African Clawed Frog
+		Alligator
+		Anteater
+		Antelope
+		Arctic Hare
+		Armadillo
+		Aye Aye
+		Baboon
+		Bactrian Camel
+		Badger
+		Bat
+		Bear
+			Asian Black Bear
+			Black Bear
+			Brown Bear
+			Giant Panda Bear
+			Grizzly Bear
+			Polar Bear
+			Spectacled Bear
+			Sun Bear
+		Bearded Dragon
+		Beaver
+		Binturong
+		Bird
+			Barn Owl
+			Budgerigar
+			canary
+			Chicken
+			Duck
+			Eagle
+			Emu
+			Falcon
+			Flamingo
+			Geese
+			Gull
+				{Gulls}
+			Hummingbird
+			Kingfisher
+			Kiwi
+			Macaw
+			Magpie
+			Nightingale
+			Ostrich
+			Parrot
+			Peacock
+			Pelican
+			Penguin
+			Pheasant
+				{Fazan}
+				{Фазан}
+				Goden Pheasant
+					{Zlatni Fazan}
+					{Златни Фазан}
+			Puffin
+			Robin
+			Snowy Owl
+			Swan
+				black swan
+			Tawny Owl
+			Toucan
+			Woodpecker
+		Birds
+		Bison
+		Blue Whale
+		Bobcat
+		Bongo
+		Bottle Nosed Dolphin
+		Buffalo
+		Bull Shark
+		Camel
+		Caracal
+		Cat
+			Abyssinian
+			Australian Mist
+			Balinese
+			Birman
+			Bombay
+			Burmese
+			Egyptian Mau
+			Himalayan
+			Javanese
+			Maine Coon
+			Norwegian Forest
+			Persian
+			Ragdoll
+			Russian Blue
+			Siamese
+			Siberian
+			Snowshoe
+			Somali
+			Tiffany
+			Turkish Angora
+		Cheetah
+		Chimpanzee
+		Chinchilla
+		Chipmunk
+		Cougar
+		Cow
+		Coyote
+		Crab
+		Crocodile
+		Deer
+		Dog
+			Affenpinscher Dog
+			Afghan Hound
+			Ainu Dog
+			Airedale Dog
+			Akbash Dog
+			Akita Dog
+			Alaskan Malamute
+			Alpine Dachsbracke
+			American Bulldog
+			American Cocker Spaniel
+			American Coonhound
+			American Eskimo Dog
+			American Foxhound
+			American Pit Bull Terrier
+			American Staffordshire Terrier
+			American Water Spaniel
+			Anatolian Shepherd Dog
+			Appenzeller Dog
+			Australian Cattle Dog
+			Australian Kelpie Dog
+			Australian Shepherd
+			Australian Terrier
+			Basenji Dog
+			Basset Hound
+			Bavarian Mountain Hound
+			Beagle
+			Bearded Collie
+			Bedlington Terrier
+			Belgian Shepherd Dog
+				{Malinos}
+			Bernese Mountain Dog
+			Bichon Frise
+			Black Russian Terrier
+			Bloodhound
+			Blue Lacy Dog
+			Bluetick Coonhound
+			Bolognese Dog
+			Border Collie
+			Border Terrier
+			Boston Terrier
+			Boxer Dog
+			Boykin Spaniel
+			Brazilian Terrier
+			Bull Mastiff
+			Bull Terrier
+			Bulldog
+			Cairn Terrier
+			Canaan Dog
+			Carolina Dog
+			Cavalier King Charles Spaniel
+			Cesky Fousek
+			Chesapeake Bay Retriever
+			Chihuahua
+			Chinese Crested Dog
+			Chinook
+			Chow Chow
+			Clumber Spaniel
+			Collie
+			Curly Coated Retriever
+			Dachshund
+			Dalmation
+			Deutsche Bracke
+			Dingo
+			Doberman Pinscher
+			Dogo Argentino
+			Dogue De Bordeaux
+			Drever
+			Dunker
+			English Cocker Spaniel
+			English Shepherd
+			English Springer Spaniel
+			Epagneul Pont Audemer
+			Eskimo Dog
+			Estrela Mountain Dog
+			Field Spaniel
+			Finnish Sptiz
+			Flat Coat Retriever
+			Fox Terrier
+			French Bulldog
+			German Pinscher
+			German Shepherd
+			Giant Schauzer
+			Golden Retriever
+			Great Dane
+			Greater Swiss Mountain Dog
+			Greenland Dog
+			Greyhound
+			Harrier
+			Havanese
+			Ibizan Hound
+			Irish Setter
+			Irish WolfHound
+			Jack Russel
+			Japanese Chin
+			Labradoodle
+			Labrador Retriever
+			Maltese
+			Mastiff
+			Mongrel/Mutt/Mixed-Breed
+			Neapolitan Mastiff
+			Norfolk Terrier
+			Old English Sheepdog
+			Pekingese
+			Pointer
+			Poodle
+			Pug
+			Rottweiler
+			Saint Bernard
+			Shih Tzu
+			Siberian Husky
+			Staffordshire Bull Terrier
+			Tibetan Mastiff
+			Welsh Corgi
+			West Highland Terrier
+			Whippet
+			Yorkshire Terrier
+		Dolphin
+		Donkey
+		Dusky Dolphin
+		Echidna
+		Elephant
+			African Elephant
+			Asian Elephant
+		Elephant Seal
+		Ferret
+		Fish
+			Angelfish
+			Barb
+			Barnacle
+			Butterfly Fish
+			Cichlid
+			Clown Fish
+			Electric Eel
+			Guppy
+			Jellyfish
+			Lionfish
+			Piranha
+			Puffer Fish
+			Sea Slug
+			Sea Urchin
+			Seahorse
+			Shrimp
+			Siamese Fighting Fish
+			Starfish
+			Stingray
+			Tang
+			Tetra
+		Fox
+			Arctic Fox
+		Frog
+		Fur Seal
+		Galapagos Tortoise
+		Gerbil
+		Giraffe
+		Goat
+		Gopher
+		Gorilla
+		Great White Shark
+		Grey Reef Shark
+		Grey Seal
+		Guinea Pig
+		Hammerhead Shark
+		Hamster
+		Hare
+		Hedgehog
+		Highland Cattle
+		Hippo
+		Horned Frog
+		Horse
+		Howler Monkey
+		Human
+		Humpback Whale
+		Hyena
+		Iguana
+		Indian Palm Squirrel
+		Insect
+			Ant
+			Beetle
+			Bumble Bee
+			Butterfly
+			Caterpillar
+			Centipede
+			Cockroach
+			Dragonfly
+				{Vilin Konjic}
+			Fly
+			Glow Worm
+			Grasshopper
+			Honey Bee
+			Ladybird
+			Millipede
+			Moth
+			Red Knee Tarantula
+			Spider
+				{Pauk}
+				{Паук}
+			Termite
+			Wasp
+			Woodlouse
+		Jackal
+		Jaguar
+		Kangaroo
+		Killer Whale
+		King Crab
+		Koala
+		Komodo Dragon
+		Lemmings
+		Lemur
+		Leopard
+		Leopard Seal
+		Liger
+		Lion
+		Lizard
+		Llama
+		Lobster
+		Lynx
+		Manatee
+		Meerkat
+		Minke Whale
+		Mongoose
+		Monitor Lizard
+		Monkey
+		Moose
+		Mountain Lion
+		Mouse
+		Mule
+		Neanderthal
+		Newt
+		Nurse Shark
+		Octopus
+		Orang-utan
+		Otter
+		Panther
+		Pig
+		Platypus
+		Porcupine
+		Prawn
+		Proboscis Monkey
+		Puma
+		Pygmy Marmoset
+		Rabbit
+		Raccoon
+		Rat
+		Rattlesnake
+		Red Panda
+		Reindeer
+		Rhino
+		River Dolphin
+		Salamander
+		Scorpion
+		Sea Lion
+		Sea Turtle
+		Seal
+		Serval
+		Sheep
+		Skunk
+		Sloth
+		Snake
+		Snapping Turtle
+		Spadefoot Toad
+		Spider Monkey
+		Squid
+		Squirrel
+		Squirrel Monkey
+		Tasmanian Devil
+		Tiger
+		Tiger Shark
+		Tortoise
+		Walrus
+		Water Buffalo
+		Weasel
+		Whale Shark
+		White Rhino
+		White Tiger
+		Wildebeest
+		Wolf
+			Arctic Wolf
+		Wombat
+		Yak
+		Zebra
+		Zonkey
+	Nature
+		[Bodies of Water]
+			Arch
+			Channel
+			Geyser
+			Inlet
+				Bay
+					Gulf
+					Sound
+				Cove
+				Estuary
+				Firth
+				Fjord
+			Lagoon
+			Lake
+				Oxbow lake
+			Loch
+			Ocean
+			Pond
+			Reservoir
+			River
+				Confluence
+				River bank
+			Sea
+			Spring
+			Strait
+			Stream
+			Tide pool
+			Vernal pool
+			Waterfall
+			Waterway
+			Wetland
+				Bog
+				Fen
+				Marsh
+				Mudflat
+				Swamp
+		[Flowers & Plants]
+			Flower
+				Magnolia
+			Tree
+				{Drveće}
+				{Drvo}
+				{Trees}
+				{Дрвеће}
+				{Дрво}
+				Branch
+					{Grana}
+					Leaf
+						{Foliage}
+						{Leaves}
+				Foliage
+		[Landforms]
+			Arroyo
+			Badlands
+			Beach
+			Bluff
+			Canyon
+			Cave
+			Cliff
+			Coast
+			Coral reef
+			Cove
+			Crater- impact
+			Crater- volcanic
+			Cuesta
+			Dale
+			Dell
+			Delta
+			Desert
+			Escarpment
+			Forest
+			Geyser
+			Glacier
+			Grassland
+			Gulch
+			Headland
+				Cape
+			Highland
+			Hill
+				Dune
+				Foothills
+			Hoodoo
+			Island
+				Archipelago
+				Atoll
+				Islet
+				Volcanic arc
+			Isthmus
+			Landmass
+				Continent
+				Large island
+				Supercontinent
+			Lowland
+			Meadow
+			Mesa
+			Moraine
+			Mountain
+			Mountain pass
+			Mountain range
+			Peninsula
+			Pingo
+			Plain
+				Prairie
+				Savanna
+				Steppe
+				Tundra
+			Plateau
+			Presque-isle
+			Promontory
+			Reef
+			Ridge
+			Sandbar
+			Spit
+			Subterranea
+			Vale
+			Valley
+				Cirque
+				Gully
+				Ravine
+			Volcano
+			Watershed
+		Sky
+			Moon
+				moonlight
+			Sun
+Materials
+	{Material}
+	{Materijali}
+	{Materijal}
+	{Материјали}
+	{Материјал}
+	Aluminium
+		{Aluminijum}
+		{Алуминијум}
+		Brushed aluminium
+	brick
+	bronze
+	ceramic
+	Chrome
+		{Hrom}
+		{Хром}
+	copper
+	Glass
+	iron
+		wrought iron
+	mirror
+[Objects]
+	airliner
+	attitude
+	ball
+		{balls}
+	bank
+	Boat
+		Jacht
+		Sailboat
+			{Sailing Boat}
+	bourse
+		{berza}
+		{stock market}
+	camera
+	caress
+	cartoon
+	christmas tree
+	City
+	closeup
+		{close-up}
+	crane
+	crew
+	cutting
+	Daltons
+	dark background
+	dead
+	eight
+	electric
+	elegant
+	european
+	fancy
+	flourescent work jacket
+	focus
+	French
+	frizura
+	fruit ninja
+	hard hat
+	hay bales
+	helmet
+	hills
+	Hipster
+	holding
+	Hook
+		{Hooks}
+	hug
+	jacket
+	Job
+	kids
+	kiss
+	Kosovo je srbija
+	looking
+	microphone
+	Mime
+	miniature
+	model
+	old
+	padlocks
+		{katanci}
+		love padlocks
+			{ljubavni katanci}
+	pattern
+	pennies
+	perspective
+	Petals
+	pigeons
+	piggybank
+	pilot
+	pinup
+	plane
+	planks
+	plants
+	plate
+	pocket
+	poor
+	product
+	professional
+	protest
+	Prvi maj
+	purchase
+	rain drops
+	raindrops
+	reading
+	recession
+	red lips
+	reflection
+	refraction
+	Religion
+	save
+	saving
+	savings
+	service
+	shiny
+	sign
+	silhouettes
+	singing
+	skakavac
+	skate
+	skaters
+	slot
+	small
+	smile
+	smiling
+	Snow
+	sony
+	Square
+	stack
+	step
+	stripes
+	stylish
+	suit
+	sweater
+	tail
+	tamis
+	tito
+	toy
+	Trade
+	travel
+	trombone
+	typewriter
+	umbrella
+	uskrs
+	vaskrs
+	veil
+	Veliko ratno ostrvo
+	vine
+	violin
+	Vojska
+	vrelo
+	wall
+	Water
+	wet
+	worker
+People
+	{Human Being}
+	{Ljudi}
+	{Person}
+	_Ja
+	[_Names]
+		Colleague
+			{Kolega}
+			[Agata]
+			[Dusan]
+			[Marina]
+			[Simona]
+		Familly
+			{Porodica}
+			Baka
+			Cale
+				{Dad}
+				{Father}
+				{My dad}
+				{Otac}
+			[Kosarici]
+				[Ankica]
+					{Ankica Kosaric}
+					{Ankica Košarić}
+					{Beca}
+					{Kibe}
+					{Kibence}
+					{Анкица Кошарић}
+				[Marija Kosaric]
+			Majce
+			[Mama]
+			Nikola Rosic
+			Skviki
+			[Stosici]
+				[Anci]
+					{Ana Stosic}
+				[Deki]
+					{Dejan}
+					{Dejan Stosic}
+				[Ivana]
+				[Tamara]
+					{Tamara Stosic}
+				[Tina]
+					{Tina Stosic}
+			Teta Nena
+			Vesko
+		Friends
+			[Bojana Djukic]
+			[Bole]
+			Jelena
+			[Marija Veljkovic]
+			[Natalija Radivojevic]
+		Misc
+			Iya Traore
+			Salvador Dali
+		[Poznanici]
+			[Aleksandra Kupresanin]
+			Anita i Sava
+			[Irena Radinovic]
+			[Ivana Nincic]
+			[Jelena i Vladimir]
+			[Jelena Vicic]
+			[Milan Smederevac]
+			[Milica Gajic]
+			[Olga Djurovic]
+			[Tamara Kovac]
+	[Age & Gender]
+		Adult
+			Mature Adult
+				{Mature}
+				40s
+				50s
+			Mid Adult
+				30s
+			Senior Adult
+				{Senior}
+				{Old People}
+				60s
+				70s
+				80-plus years
+			Young Adult
+				18-19 Years
+				20s
+		Man
+			{Male}
+		Mixed Ages
+		Toddler
+		Woman
+			{Female}
+		Young
+			Baby
+				6-11 Months
+				Newborn
+			Boy
+				{Kid}
+			Child
+				{Child}
+				{Preeschool Age}
+				2-3 Years
+				6-7 Years
+				10-11 Years
+					{Pre-adolescent child}
+				12-13 Years
+					{Pre-adolescent child}
+			Girl
+				{devojka}
+				{female person}
+			Teenager
+				{Adolescent}
+				14-15 Years
+					{Early Teens}
+				16-17 Years
+					{Late Teens}
+			Young Man
+			Young Woman
+	[Body]
+		[Length]
+			Full Length
+			Head And Shoulders
+				Head Shot
+			Three Quarter Length
+			Waist Up
+		[Parts]
+			Arm
+				Elbow
+				Forearm
+				Hand
+					Finger
+					Palm
+					Wrist
+			Chest
+				{Bosom}
+				{Breast}
+				{Bust}
+				{Cleavage}
+			Head
+				Face
+					Eyes
+						Blue eyes
+				Hair
+					[Color]
+						Blond
+					[Style]
+						Curly Hair
+			Leg
+				Ankle
+				Foot
+				Knee
+				Thigh
+			Neck
+			Shoulder
+		[Pose]
+			Arm Outstretched
+			Arms Crossed
+			Cross Legged
+			Hand In Pocket
+			Hand On Hip
+			Hands Clasped
+			Interlaced Fingers
+			Legs Crossed
+			Lying Down
+			Sitting
+			Standing
+			Waving
+	Emotions
+	[Ethnicity]
+		Asian
+		caucasian
+	[Number of People]
+	[Professions]
+		Aircrew
+			Aircraft Cabin
+				Flight Attendant
+					{Stewardess}
+				Loadmaster
+				Purser
+			Cockpit
+				First Officer
+				Flight Engineer
+				Pilot in Command
+				Second Officer
+				Third Officer
+		beggar
+		hairdresser
+		musician
+		sales woman
+	[Relationship]
+		Brother
+		Daughter
+		Family with one child
+		Father
+		Grandparent
+		Grandson
+		Heterosexual couple
+		Mother
+		Neighbour
+		One parent
+			{Single parent}
+		Parent
+		Senior Couple
+		Sibling
+		Sister
+		Son
+		Twin
+	[View angle]
+		Back View
+		Front View
+		Side View
+[Places]
+	{Mesta}
+	{Места}
+	Europe
+		Belgium
+			Brugge
+			Brussel
+		France
+			{Francuska}
+			{Pariz}
+			Arras
+			Berck
+				{Berk}
+			Dankerk
+			Eiffel
+			La Manche
+			Lille
+				euralille
+			Paris
+				Arc de Triomphe
+				Galeries Lafayette Hausmann
+				Jardin des tuleries
+				La Defense
+				Louvre
+				Montparnasse
+				Musée d'Orsay
+					{Orsej}
+				Musée de Cluny
+				notre dame
+				Passerelle Léopold Sédar Senghor
+				place de la Concorde
+				Saint-Séverin
+				trocadero
+			Reims
+			Touquet
+			tour eiffel
+			Versaille
+		Greece
+			{Grcka}
+			Lefkada
+			parga
+		Hrvatska
+			Losinj
+		Srbija
+			{Serbia}
+			{Serbie}
+			Bavaniste
+			Beograd
+				{Belgrade}
+				Ada Ciganlija
+				[Boletov stan]
+				Bre
+				jevremova
+				Kalemegdan
+				kuca cveca
+				Sajam
+					{Expo}
+					{Fair}
+					{Foire}
+					{Messe}
+				Sava river
+				Skadarlija
+				St Marko Church
+				Usce
+			Fruska Gora
+			jarmenovci
+			Nis
+			Pancevo
+			Petnica
+			Smederevo
+			tara
+	[General]
+		Park
+		Street
+	[Quantity]
+		Crowd
+			{Busy}
+		Group Of People
+		Lonely
+			{Desolate}
+		One Person
+			{Single Person}
+[Time and Date]
+	[Season]
+		{Godisnje doba}
+		Autmn
+			{Fall}
+			{Jesen}
+		Spring
+			{Prolece}
+		Summer
+			{Leto}
+		Winter
+			{Zima}
+	[Time of day]
+		Night
+			{noć}
+			{ноћ}
+		Sunset
+			{Zalazak}
+			{Залазак}
+Transportation
+	{Prevoz}
+	Metro
+		{Subway}
+	road sign
+	signage
+	signs
+	Train
+[Weather]
+	Air
+		Fog
+		Haze
+		Heat Mirage
+		Mist
+		Pollution
+		Smog
+	Clouds
+		Altocumulus
+		Altostratus
+		Cirrocumulus
+		Cirrostratus
+		Cirrus
+		Contrail
+		Cumulonimbus
+		Cumulus
+		Nacreous
+		Nimbostratus
+		Noctilucent
+		Stratocumulus
+		Stratus
+	Dew
+	Drought
+	Electrical Storm
+	Ice
+		Frost
+		Hail
+		Ice Storm
+		Sleet
+	Lightning
+		Ball Lightning
+		Bead Lightning
+		Fork Lightning
+		Ribbon Lightning
+		Sheet Lightning
+	Rain
+		Cloudburst
+		Downpour
+		Drizzle
+		Flash Flood
+		Freezing Rain
+		Monsoon
+		Shower
+	Rainbow
+	Snow
+		Blizzard
+		Sleet
+		Snow Flurry
+		Snow Shower
+		Snow Storm
+	Squall
+	Storm
+	Sunshine
+	Thunderstorm
+	Tidal Wave
+	Tsunami
+	Waterspout
+	Whirlpool
+	Wind
+		Cyclone
+		Dust Devil
+		Dust Storm
+		Gale
+		Hurricane
+		Sandstorm
+		Tornado
+		Tropical Storm
+		Twister
+		Typhoon
+		Whirlwind
+		Zephyr
