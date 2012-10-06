@@ -1,5 +1,8 @@
 [_Foto]
 	Bokeh
+	closeup
+		{close-up}
+	dark background
 	Duotone
 	Editorial
 	Isolated
@@ -35,27 +38,37 @@
 	Urban sceene
 Activity
 	{Aktivnost}
-	Carneval
-		{Karneval}
+	Cutting
 	Feeding
-	flight
+	Flight
 	Game
 		Billiard
+			Ball Eight
+	Holding
+	Hug
+		{Embrace}
+		{Caress}
+	Kiss
+	Looking
 	Playing
 		{Igranje}
+	protest
+	reading
+	singing
 	Sport
 		Dancing
 			Salsa
 		Ninjutsu
 		Rowing
+		skating
 		Training
 			{Trening}
 		Voleyball
 [Behaviors]
 	[Animal]
+		Flying
 		Foraging
 			Fishing
-			Flying
 			Hunting
 			Killing
 			Mating
@@ -103,6 +116,9 @@ Activity
 	Commercial Buildings
 		Bank
 		Bar
+		bourse
+			{berza}
+			{stock market}
 		Brothel
 		Casino
 		Coffee house
@@ -260,11 +276,6 @@ Activity
 		Subway
 		Train station
 		Underground
-Clothes
-	Decolletage
-	Dress
-	Pants
-	Shirt
 [Colour]
 	{color}
 	Amber
@@ -310,24 +321,41 @@ Clothes
 	White
 	Yellow
 [Concepts]
+	attitude
+	european
+	old
+	poor
+	professional
+	purchase
+	recession
+	service
+	Trade
+	travel
 Culture
 	Architecture
 		{Arhitektura}
+		deco
 		monument
 	Art
+		Cartoon
 		Music
+			Band
 			jazz
-		pin-up
-	Band
-	Books
 	Brands
 		GSP
 		Ikea
 		kwak
 		Mercedes
 		myskin
-	deco
+		sony
 	Design
+		pattern
+	Literature
+		Book
+	Religion
+	Signage
+		Sign
+			Road Sign
 Economy
 	bank
 	bills
@@ -349,9 +377,8 @@ Economy
 	piggybank
 	purchase
 	recession
-	save
 	saving
-		savings
+		{save}
 [Events]
 	{Događaji}
 	1. maj
@@ -361,6 +388,8 @@ Economy
 	Book fair
 		{Sajam knjiga}
 	Car Show
+	Carneval
+		{Karneval}
 	Celine Dion
 	christmas
 	colloque
@@ -376,6 +405,7 @@ Economy
 	Funeral
 	gospojina
 	holiday
+	Kosovo je srbija
 	Market
 	matura
 	Neverne bebe
@@ -388,6 +418,7 @@ Economy
 	nova godina 2010
 	party
 	Pena Party
+	Prvi maj
 	RODJENDAN
 		2.
 		22.
@@ -451,7 +482,7 @@ Economy
 		Bird
 			Barn Owl
 			Budgerigar
-			canary
+			Canary
 			Chicken
 			Duck
 			Eagle
@@ -478,6 +509,7 @@ Economy
 				Goden Pheasant
 					{Zlatni Fazan}
 					{Златни Фазан}
+			Pigeon
 			Puffin
 			Robin
 			Snowy Owl
@@ -486,7 +518,6 @@ Economy
 			Tawny Owl
 			Toucan
 			Woodpecker
-		Birds
 		Bison
 		Blue Whale
 		Bobcat
@@ -809,6 +840,7 @@ Economy
 		Yak
 		Zebra
 		Zonkey
+	dead
 	Nature
 		[Bodies of Water]
 			Arch
@@ -849,6 +881,7 @@ Economy
 		[Flowers & Plants]
 			Flower
 				Magnolia
+				Petals
 			Tree
 				{Drveće}
 				{Drvo}
@@ -861,6 +894,8 @@ Economy
 						{Foliage}
 						{Leaves}
 				Foliage
+			Vine
+		Hay Bales
 		[Landforms]
 			Arroyo
 			Badlands
@@ -935,6 +970,7 @@ Economy
 			Moon
 				moonlight
 			Sun
+		Water
 Materials
 	{Material}
 	{Materijali}
@@ -957,137 +993,39 @@ Materials
 		wrought iron
 	mirror
 [Objects]
-	airliner
-	attitude
-	ball
-		{balls}
-	bank
-	Boat
-		Jacht
-		Sailboat
-			{Sailing Boat}
-	bourse
-		{berza}
-		{stock market}
 	camera
-	caress
-	cartoon
 	christmas tree
-	City
-	closeup
-		{close-up}
 	crane
-	crew
-	cutting
-	Daltons
-	dark background
-	dead
-	eight
-	electric
-	elegant
-	european
-	fancy
-	flourescent work jacket
-	focus
-	French
-	frizura
-	fruit ninja
-	hard hat
-	hay bales
-	helmet
-	hills
-	Hipster
-	holding
 	Hook
 		{Hooks}
-	hug
-	jacket
-	Job
-	kids
-	kiss
-	Kosovo je srbija
-	looking
+	Instrument
+		Trombone
+		Violin
 	microphone
-	Mime
 	miniature
-	model
-	old
 	padlocks
 		{katanci}
 		love padlocks
 			{ljubavni katanci}
-	pattern
-	pennies
-	perspective
-	Petals
-	pigeons
 	piggybank
-	pilot
-	pinup
-	plane
 	planks
-	plants
 	plate
-	pocket
-	poor
+	[Playing]
+		ball
+			{balls}
 	product
-	professional
-	protest
-	Prvi maj
-	purchase
-	rain drops
-	raindrops
-	reading
-	recession
-	red lips
-	reflection
-	refraction
-	Religion
-	save
-	saving
-	savings
-	service
 	shiny
-	sign
 	silhouettes
-	singing
-	skakavac
-	skate
 	skaters
 	slot
-	small
-	smile
-	smiling
-	Snow
-	sony
 	Square
 	stack
-	step
 	stripes
-	stylish
-	suit
-	sweater
 	tail
-	tamis
-	tito
 	toy
-	Trade
-	travel
-	trombone
 	typewriter
 	umbrella
-	uskrs
-	vaskrs
-	veil
-	Veliko ratno ostrvo
-	vine
-	violin
-	Vojska
-	vrelo
 	wall
-	Water
-	wet
-	worker
 People
 	{Human Being}
 	{Ljudi}
@@ -1141,8 +1079,10 @@ People
 			[Marija Veljkovic]
 			[Natalija Radivojevic]
 		Misc
+			Daltons
 			Iya Traore
 			Salvador Dali
+			tito
 		[Poznanici]
 			[Aleksandra Kupresanin]
 			Anita i Sava
@@ -1225,8 +1165,11 @@ People
 				{Cleavage}
 			Head
 				Face
+					[Expressions]
+						Smiling
 					Eyes
 						Blue eyes
+					Red Lips
 				Hair
 					[Color]
 						Blond
@@ -1252,6 +1195,19 @@ People
 			Sitting
 			Standing
 			Waving
+	Clothes
+		Decolletage
+		Dress
+		flourescent work jacket
+		hard hat
+		helmet
+		jacket
+		Pants
+		Pocket
+		Shirt
+		Suit
+		Sweater
+		Veil
 	Emotions
 	[Ethnicity]
 		Asian
@@ -1270,10 +1226,20 @@ People
 				Pilot in Command
 				Second Officer
 				Third Officer
-		beggar
+		Beggar
+			{Hobo}
+			{Trapm}
+			{Vagabond}
 		hairdresser
 		musician
+		Pantomimist
+			{Comedian}
+			{Imitator}
+			{Impersonator}
+			{Mimic}
+			{Mime}
 		sales woman
+		Worker
 	[Relationship]
 		Brother
 		Daughter
@@ -1299,6 +1265,7 @@ People
 [Places]
 	{Mesta}
 	{Места}
+	City
 	Europe
 		Belgium
 			Brugge
@@ -1360,13 +1327,16 @@ People
 				Skadarlija
 				St Marko Church
 				Usce
+				Veliko ratno ostrvo
 			Fruska Gora
 			jarmenovci
 			Nis
 			Pancevo
+				tamis
 			Petnica
 			Smederevo
-			tara
+			Tara
+				Reka Vrelo
 	[General]
 		Park
 		Street
@@ -1378,6 +1348,15 @@ People
 			{Desolate}
 		One Person
 			{Single Person}
+[Size]
+	small
+Style
+	elegant
+	fancy
+	Hipster
+	Pin-up
+		{Pinup}
+	Stylish
 [Time and Date]
 	[Season]
 		{Godisnje doba}
@@ -1399,11 +1378,31 @@ People
 			{Залазак}
 Transportation
 	{Prevoz}
+	Aircraft
+		[Fixed-wing]
+			Airplane
+				{Aeroplane}
+				Airliner
+				Powered glider
+					Motor glider
+					Powered hang glider
+					Powered parachute
+					Powered paraglider
+						{Paramotor}
+				Seaplane
+			Glider
+				Hang Glider
+				Paraglider
+			Kite
+		[Rotocraft]
+			Autogyro
+			Helicopter
+	Boat
+		Jacht
+		Sailboat
+			{Sailing Boat}
 	Metro
 		{Subway}
-	road sign
-	signage
-	signs
 	Train
 [Weather]
 	Air
@@ -1448,6 +1447,7 @@ Transportation
 		Flash Flood
 		Freezing Rain
 		Monsoon
+		Raindrops
 		Shower
 	Rainbow
 	Snow
@@ -1477,3 +1477,12 @@ Transportation
 		Typhoon
 		Whirlwind
 		Zephyr
+[~don't know]
+	electric
+	focus
+	fruit ninja
+	model
+	perspective
+	reflection
+	refraction
+	wet
