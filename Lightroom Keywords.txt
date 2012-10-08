@@ -1,0 +1,1402 @@
+Activity
+	Cutting
+	Feeding
+	Fishing
+	Flying
+		{Flight}
+	Foraging
+	Holding
+	Hunting
+	Killing
+	Looking
+	Mating
+	Nourishing
+	[Physical intimacy]
+		Cuddle
+		Hug
+			{Embrace}
+			{Caress}
+		Kiss
+	Playing
+	Reading
+	Running
+	Singing
+	Sleeping
+	Sport
+		Billiard
+			Ball eight
+		Dancing
+			Salsa
+		Ninjutsu
+		Rowing
+		Skating
+		Training
+		Volleyball
+	Sprinting
+	Standing
+	Swimming
+	Walking
+[Buildings]
+	Agricultural buildings
+		Barn
+		Chicken coop
+		Chicken house
+		Farmhouse
+		Granary
+		Greenhouse
+		Hayloft
+		Horse mill
+		Pigpen
+		Root cellar
+		Shed
+		Silo
+		Stable
+		Storm cellar
+		Sty
+		Tide mill
+		Watermill
+		Well house
+		Wind mill
+	[Building parts]
+		Ceiling
+			Ciel
+		Dome
+		Elevator
+		Fence
+		Roof
+			Rooftop
+	Commercial buildings
+		Bank
+		Bar
+		Bourse
+			{Stock market}
+		Brothel
+		Casino
+		Coffee house
+		Convention center
+		Forum
+		Gas station
+		Hotel
+		Market
+		Motel
+		Nightclub
+		Office
+		Pub
+		Restaurant
+		Shop
+		Shopping mall
+			{Mall}
+		Skyscraper
+		Store
+		Supermarket
+		Warehouse
+	Educational buildings
+		Classroom building
+		College
+		Dormitory
+		Gymnasium
+		Library
+		School
+		Students' union
+		University
+	Government buildings
+		Capitol
+		City hall
+		Consulate
+		Courthouse
+		Embassy
+		Fire station
+		Hospital
+		Palace
+		Parliament
+		Police station
+		Post office
+		Prison
+	Industrial buildings
+		Brewery
+		Factory
+		Foundry
+		Mill
+		Mining
+		Power plant
+		Refinery
+	Leisure buildings
+		Art gallery
+		Museum
+		Stadium
+		Theater
+			Amphitheater
+			Concert hall
+			Movie theater
+			Opera house
+			Symphony hall
+	Military buildings
+		Barracks
+		Blockhouse
+		Bunker
+		Castle
+		Citadel
+		City gate
+		Defensive wall
+		Fort
+		Fortification
+		Tower
+	Religious buildings
+		Basilica
+		Cathedral
+		Chapel
+		Church
+		Fire temple
+		Martyrium
+		Monastery
+		Mosque
+		Oratory
+		Pagoda
+		Pyramid
+		Shrine
+		Synagogue
+		Temple
+	Residential buildings
+		Apartment block
+		Asylum
+		Condominium
+		Dormitory
+		Duplex
+		House
+			A-frame
+			Apartment
+			Bedsit
+			Brownstone
+			Bungalow
+			Chalet
+			Co-op
+			Colonial house
+			Condominium
+			Cottage
+			Deck house
+			Detached
+			Duplex
+			Farmhouse
+			Flat
+			Gable-front house
+			Garage-apartment
+			Houseboat
+			Igloo
+			Loft
+			Log cabin
+			Maisonette
+			Mansion
+			Mews
+			Mobile home
+			Penthouse
+			Prefab
+			Ranch
+			Roundhouse
+			Semi-detached
+			Shack
+			Shophouse
+			Split-level house
+			Stilt houses
+			Studio apartment
+			Tenement
+			Tent
+			Terraced house
+			Tipi
+			Tower block
+			Travel trailer
+			Treehouse
+			Tudor
+			Victorian house
+			Villa
+			Yurt
+		Nursing home
+	Storage buildings
+		Aircraft hangar
+		Boathouse
+		Garage
+		Shed
+		Storage silo
+		Warehouse
+	Transport buildings
+		Airport
+			Airport terminal
+		Bridge
+		Bus station
+		Marina
+		Metro
+		Subway
+		Train station
+		Underground
+[Color]
+	Amber
+	Aquamarine
+	Azure
+	Beige
+	Black
+	Blue
+	Brown
+	Cerise
+	Chartreuse green
+	Coral
+	Crimson
+	Cyan
+	Gold
+	Gray
+	Green
+	Indigo
+	Lavender
+	Lilac
+	Lime
+	Magenta
+	Maroon
+	Mauve
+	Navy blue
+	Olive
+	Orange
+	Orange-red
+	Peach
+	Pink
+	Plum
+	Purple
+	Red
+	Red-violet
+	Rose
+	Scarlet
+	Silver
+	Spring green
+	Teal
+	Turquoise
+	Violet
+	Viridian
+	White
+	Yellow
+[Composition]
+	Abstract
+	Black border
+	Candid
+	Clipping path
+	Close-up
+		Extreme close up
+		Macro
+	Composition
+	Copy space
+	Cut out
+		{Isolated}
+	Day in the life series
+	Diminishing perspective
+	Emotional series
+	Frame
+	Full frame
+	Full length
+	Head and shoulders
+		Head shot
+	Headshot
+	Horizontal
+	Image sequence
+	Looking at camera
+	Magnification
+	Medium shot
+	Multiple image
+	Panoramic
+	Perspective
+	Pixelated
+	Series
+	Sparse
+	Square
+	Still life
+	Three quarter length
+	Vanishing point
+	Vertical
+	Waist up
+[Concept]
+	Abstract
+	Attitude
+	City life
+	Cooperation
+	Environmental conservation
+	European
+	Exhilaration
+	Failure
+	Focus
+	Gratitude
+	Health
+	Humor
+	Innocence
+	Innovation
+	Intelligence
+	Journey
+	Leadership
+	Luck
+	Luxury
+	Mischief
+	Miserly
+	Modern
+	Mystery
+	Nightlife
+	Old
+	On the move
+	Out of context
+	Professional
+	Repetition
+	Resourceful
+	Retro revival
+	Revenge
+	Risk
+	Safety
+	Serene people
+	Service
+	Simplicity
+	Slow
+	Solitude
+	Success
+	Togetherness
+	Trade
+	Tranquility
+	Vitality
+	Wasting time
+	Zen
+Culture
+	Architecture
+		Deco
+		Monument
+	Art
+		Cartoon
+		Music
+			Band
+			Jazz
+	Design
+		Pattern
+	Literature
+		Book
+	Religion
+	Signage
+		Sign
+			Road sign
+[Foods and drinks]
+	Bread
+	Cheese
+	Cookie
+	Drink
+		{Beverage}
+		Beer
+			{Bière}
+		Mochito
+			{Mohito}
+		Tea
+			Black tea
+				English breakfast
+	Sugar
+	Tomato
+		Cherry tomato
+[Life]
+	Animal
+		African clawed frog
+		Alligator
+		Anteater
+		Antelope
+		Arctic hare
+		Armadillo
+		Aye aye
+		Baboon
+		Bactrian camel
+		Badger
+		Bat
+		Bear
+			Asian black bear
+			Black bear
+			Brown bear
+			Giant panda bear
+			Grizzly bear
+			Polar bear
+			Spectacled bear
+			Sun bear
+		Bearded dragon
+		Beaver
+		Binturong
+		Bird
+			Barn owl
+			Budgerigar
+			Canary
+			Chicken
+			Duck
+			Eagle
+			Emu
+			Falcon
+			Flamingo
+			Geese
+			Gull
+				{Gulls}
+			Hummingbird
+			Kingfisher
+			Kiwi
+			Macaw
+			Magpie
+			Nightingale
+			Ostrich
+			Parrot
+			Peacock
+			Pelican
+			Penguin
+			Pheasant
+				Goden pheasant
+			Pigeon
+			Puffin
+			Robin
+			Snowy owl
+			Swan
+				Black swan
+			Tawny owl
+			Toucan
+			Woodpecker
+		Bison
+		Blue whale
+		Bobcat
+		Bongo
+		Bottle nosed dolphin
+		Buffalo
+		Bull shark
+		Camel
+		Caracal
+		Cat
+			Abyssinian
+			Australian mist
+			Balinese
+			Birman
+			Bombay
+			Burmese
+			Egyptian mau
+			Himalayan
+			Javanese
+			Maine coon
+			Norwegian forest
+			Persian
+			Rag doll
+			Russian blue
+			Siamese
+			Siberian
+			Snowshoe
+			Somali
+			Tiffany
+			Turkish angora
+		Cheetah
+		Chimpanzee
+		Chinchilla
+		Chipmunk
+		Cougar
+		Cow
+		Coyote
+		Crab
+		Crocodile
+		Deer
+		Dog
+			Affenpinscher dog
+			Afghan hound
+			Ainu dog
+			Airedale dog
+			Akbash dog
+			Akita dog
+			Alaskan malamute
+			Alpine dachsbracke
+			American bulldog
+			American cocker spaniel
+			American coonhound
+			American eskimo dog
+			American foxhound
+			American pit bull terrier
+			American staffordshire terrier
+			American water spaniel
+			Anatolian shepherd dog
+			Appenzeller dog
+			Australian cattle dog
+			Australian kelpie dog
+			Australian shepherd
+			Australian terrier
+			Basenji dog
+			Basset hound
+			Bavarian mountain hound
+			Beagle
+			Bearded collie
+			Bedlington terrier
+			Belgian shepherd dog
+				{Malinos}
+			Bernese mountain dog
+			Bichon frise
+			Black russian terrier
+			Bloodhound
+			Blue lacy dog
+			Bluetick coonhound
+			Bolognese dog
+			Border collie
+			Border terrier
+			Boston terrier
+			Boxer dog
+			Boykin spaniel
+			Brazilian terrier
+			Bull mastiff
+			Bull terrier
+			Bulldog
+			Cairn terrier
+			Canaan dog
+			Carolina dog
+			Cavalier king charles spaniel
+			Cesky fousek
+			Chesapeake bay retriever
+			Chihuahua
+			Chinese crested dog
+			Chinook
+			Chow chow
+			Clumber spaniel
+			Collie
+			Curly coated retriever
+			Dachshund
+			Dalmation
+			Deutsche bracke
+			Dingo
+			Doberman pinscher
+			Dogo argentino
+			Dogue de bordeaux
+			Drever
+			Dunker
+			English cocker spaniel
+			English shepherd
+			English springer spaniel
+			Epagneul pont audemer
+			Eskimo dog
+			Estrela mountain dog
+			Field spaniel
+			Finnish sptiz
+			Flat coat retriever
+			Fox terrier
+			French bulldog
+			German pinscher
+			German shepherd
+			Giant schauzer
+			Golden retriever
+			Great dane
+			Greater swiss mountain dog
+			Greenland dog
+			Greyhound
+			Harrier
+			Havanese
+			Ibizan hound
+			Irish setter
+			Irish wolfhound
+			Jack russel
+			Japanese chin
+			Labradoodle
+			Labrador retriever
+			Maltese
+			Mastiff
+			Mongrel/mutt/mixed-breed
+			Neapolitan mastiff
+			Norfolk terrier
+			Old english sheepdog
+			Pekingese
+			Pointer
+			Poodle
+			Pug
+			Rottweiler
+			Saint bernard
+			Shih tzu
+			Siberian husky
+			Staffordshire bull terrier
+			Tibetan mastiff
+			Welsh corgi
+			West highland terrier
+			Whippet
+			Yorkshire terrier
+		Dolphin
+		Donkey
+		Dusky dolphin
+		Echidna
+		Elephant
+			African elephant
+			Asian elephant
+		Elephant seal
+		Ferret
+		Fish
+			Angelfish
+			Barb
+			Barnacle
+			Butterfly fish
+			Cichlid
+			Clown fish
+			Electric eel
+			Guppy
+			Jellyfish
+			Lion fish
+			Piranha
+			Puffer fish
+			Sea slug
+			Sea urchin
+			Seahorse
+			Shrimp
+			Siamese fighting fish
+			Starfish
+			Stingray
+			Tang
+			Tetra
+		Fox
+			Arctic fox
+		Frog
+		Fur seal
+		Galapagos tortoise
+		Gerbil
+		Giraffe
+		Goat
+		Gopher
+		Gorilla
+		Great white shark
+		Grey reef shark
+		Grey seal
+		Guinea pig
+		Hammerhead shark
+		Hamster
+		Hare
+		Hedgehog
+		Highland cattle
+		Hippo
+		Horned frog
+		Horse
+		Howler monkey
+		Human
+		Humpback whale
+		Hyena
+		Iguana
+		Indian palm squirrel
+		Insect
+			Ant
+			Beetle
+			Bumble bee
+			Butterfly
+			Caterpillar
+			Centipede
+			Cockroach
+			Dragonfly
+			Fly
+			Glow worm
+			Grasshopper
+			Honey bee
+			Ladybird
+			Millipede
+			Moth
+			Red knee tarantula
+			Spider
+			Termite
+			Wasp
+			Woodlouse
+		Jackal
+		Jaguar
+		Kangaroo
+		Killer whale
+		King crab
+		Koala
+		Komodo dragon
+		Lemmings
+		Lemur
+		Leopard
+		Leopard seal
+		Liger
+		Lion
+		Lizard
+		Llama
+		Lobster
+		Lynx
+		Manatee
+		Meerkat
+		Minke whale
+		Mongoose
+		Monitor lizard
+		Monkey
+		Moose
+		Mountain lion
+		Mouse
+		Mule
+		Neanderthal
+		Newt
+		Nurse shark
+		Octopus
+		Orang-utan
+		Otter
+		Panther
+		Pig
+		Platypus
+		Porcupine
+		Prawn
+		Proboscis monkey
+		Puma
+		Pygmy marmoset
+		Rabbit
+		Raccoon
+		Rat
+		Rattlesnake
+		Red panda
+		Reindeer
+		Rhino
+		River dolphin
+		Salamander
+		Scorpion
+		Sea lion
+		Sea turtle
+		Seal
+		Serval
+		Sheep
+		Skunk
+		Sloth
+		Snake
+		Snapping turtle
+		Spadefoot toad
+		Spider monkey
+		Squid
+		Squirrel
+		Squirrel monkey
+		Tail
+		Tasmanian devil
+		Tiger
+		Tiger shark
+		Tortoise
+		Walrus
+		Water buffalo
+		Weasel
+		Whale shark
+		White rhino
+		White tiger
+		Wildebeest
+		Wolf
+			Arctic wolf
+		Wombat
+		Yak
+		Zebra
+		Zonkey
+	Landscape
+		Cloudscape
+		Mountainscape
+		Waterscape
+			{Seascape}
+	Nature
+		[Bodies of water]
+			Arch
+			Channel
+			Geyser
+			Inlet
+				Bay
+					Gulf
+					Sound
+				Cove
+				Estuary
+				Firth
+				Fjord
+			Lagoon
+			Lake
+				Oxbow lake
+			Loch
+			Ocean
+			Pond
+			Reservoir
+			River
+				Confluence
+				River bank
+			Sea
+			Spring
+			Strait
+			Stream
+			Tide pool
+			Vernal pool
+			Waterfall
+			Waterway
+			Wetland
+				Bog
+				Fen
+				Marsh
+				Mudflat
+				Swamp
+		[Flowers & plants]
+			Flower
+				Magnolia
+				Petals
+			Hay bales
+			Tree
+				{Trees}
+				Branch
+					Leaf
+						{Foliage}
+						{Leaves}
+				Foliage
+			Vine
+		[Landforms]
+			Arroyo
+			Badlands
+			Beach
+			Bluff
+			Canyon
+			Cave
+			Cliff
+			Coast
+			Coral reef
+			Cove
+			Crater- impact
+			Crater- volcanic
+			Cuesta
+			Dale
+			Dell
+			Delta
+			Desert
+			Escarpment
+			Forest
+			Geyser
+			Glacier
+			Grassland
+			Gulch
+			Headland
+				Cape
+			Highland
+			Hill
+				Dune
+				Foothills
+			Hoodoo
+			Island
+				Archipelago
+				Atoll
+				Islet
+				Volcanic arc
+			Isthmus
+			Landmass
+				Continent
+				Large island
+				Supercontinent
+			Lowland
+			Meadow
+			Mesa
+			Moraine
+			Mountain
+			Mountain pass
+			Mountain range
+			Peninsula
+			Pingo
+			Plain
+				Prairie
+				Savanna
+				Steppe
+				Tundra
+			Plateau
+			Presque-isle
+			Promontory
+			Reef
+			Ridge
+			Sandbar
+			Spit
+			Subterranea
+			Vale
+			Valley
+				Cirque
+				Gully
+				Ravine
+			Volcano
+			Watershed
+		Sky
+			Moon
+			Sun
+		Water
+[Materials]
+	Aluminium
+		Brushed aluminium
+	Brick
+	Bronze
+	Ceramic
+	Chrome
+	Copper
+	Glass
+	Iron
+		Wrought iron
+	Mirror
+[Objects]
+	Camera
+	Christmas tree
+	Crane
+	Hook
+		{Hooks}
+	Instrument
+		Microphone
+		Trombone
+		Violin
+	Padlock
+		Love padlocks
+	Piggybank
+	Planks
+	Plate
+	[Playing]
+		Ball
+	Slot
+	Square
+	Stack
+	Toy
+	Typewriter
+	Umbrella
+	Wall
+People
+	{Human being}
+	{Person}
+	[Age & gender]
+		Adult
+			Mature adult
+				{Mature}
+				40s
+				50s
+			Mid adult
+				30s
+			Senior adult
+				{Senior}
+				{Old people}
+				60s
+				70s
+				80-plus years
+			Young adult
+				18-19 years
+				20s
+		Man
+			{Male}
+		Mixed ages
+		Toddler
+		Woman
+			{Female}
+		Young
+			Baby
+				6-11 months
+				Newborn
+			Boy
+				{Kid}
+			Child
+				{Child}
+				{Preeschool age}
+				2-3 years
+				6-7 years
+				10-11 years
+					{Pre-adolescent child}
+				12-13 years
+					{Pre-adolescent child}
+			Girl
+				{Female person}
+			Teenager
+				{Adolescent}
+				14-15 years
+					{Early teens}
+				16-17 years
+					{Late teens}
+			Young man
+			Young woman
+	[Body]
+		[Build]
+			Burly
+			Chubby
+			Muscular
+			Obese
+			Skinny
+			Stocky
+			Toned
+		Head
+			Face
+				[Expressions]
+					Crying
+					Finger to lips
+					Frowning
+					Pursed lip
+					Smiling
+				[Eyes]
+					Amber eyes
+					Blue eyes
+					Brown eyes
+					Green eyes
+					Grey eyes
+					Hazel eyes
+					Red eyes
+					Violet eyes
+			Hair
+				Style
+		[Parts]
+			Arm
+				Elbow
+				Forearm
+				Hand
+					Finger
+					Palm
+					Wrist
+			Chest
+				{Bosom}
+				{Breast}
+				{Bust}
+				{Cleavage}
+			Head
+				Face
+					[Expressions]
+						Smiling
+					Eyes
+						Blue eyes
+					Red lips
+				Hair
+					[Color]
+						Blond
+					[Style]
+						Curly hair
+			Leg
+				Ankle
+				Foot
+				Knee
+				Thigh
+			Neck
+			Shoulder
+		[Pose]
+			Arm outstretched
+			Arms crossed
+			Cross legged
+			Hand in pocket
+			Hand on hip
+			Hands clasped
+			Interlaced fingers
+			Legs crossed
+			Lying down
+			Sitting
+			Standing
+			Waving
+	Clothes
+		Décolletage
+		Dress
+		Fluorescent work jacket
+		Hard hat
+		Helmet
+		Jacket
+		Pants
+		Pocket
+		Shirt
+		Suit
+		Sweater
+		Veil
+	Emotions
+		Anger
+		Concentration
+		Confusion
+		Contempt
+		Desire
+		Disgust
+		Empathy
+		Envy
+		Excitement
+		Fear
+		Flirt
+		Friendship
+		Frustration
+		Glaring
+		Happiness
+		Joy
+		Love
+		Sadness
+		Shame
+		Snarl
+		Surprise
+	[Ethnicity]
+		Asian
+		Caucasian
+	[Feelings]
+		Aggression
+		Awe
+		Disappointment
+		Disapproval
+		Optimism
+		Remorse
+		Submission
+	[Number of people]
+		Crowd
+			{Busy}
+		Group of people
+		Large group of people
+		One person
+			{Single person}
+		Two people
+	Portrait
+		Fine art portrait
+		Self-portrait
+			{Autoportrait}
+			{Self}
+	[Professions]
+		Aircrew
+			Aircraft cabin
+				Flight attendant
+					{Stewardess}
+				Loadmaster
+				Purser
+			Cockpit
+				First officer
+				Flight engineer
+				Pilot in command
+				Second officer
+				Third officer
+		Beggar
+			{Hobo}
+			{Tramp}
+			{Vagabond}
+		Hairdresser
+		Model
+		Musician
+		Pantomimist
+			{Comedian}
+			{Imitator}
+			{Impersonator}
+			{Mimic}
+			{Mime}
+		Sales woman
+		Skater
+		Worker
+	[Relationship]
+		Brother
+		Daughter
+		Family with one child
+		Father
+		Grandparent
+		Grandson
+		Heterosexual couple
+		Mother
+		Neighbor
+		One parent
+			{Single parent}
+		Parent
+		Senior couple
+		Sibling
+		Sister
+		Son
+		Twin
+[Photo technique]
+	Bokeh
+	Duotone
+	[Light]
+		Natural light
+			Moonlight
+			Sun light
+		Reflection
+		Refraction
+		Strobe
+			One light
+	Monochrome
+		Black and white
+			{Grayscale}
+	Selective color
+	Silhouette
+	Tilt shift
+		{Tilt-shift}
+	[View angle]
+		Back view
+		Front view
+		Side view
+[Places]
+	Europe
+		France
+			Champagne
+				Reims
+			Île-de-france
+				Paris
+					Arc de triomphe
+					Galeries lafayette hausmann
+					Jardin des tuleries
+					La defense
+					La tour eiffel
+					Le louvre
+					Musée d'orsay
+					Musée de cluny
+					Notre dame
+					Passerelle léopold sédar senghor
+					Place de la concorde
+					Saint-séverin
+					Tour montparnasse
+				Versaille
+			Nord-pas-de-calais
+				Arras
+				Berck
+				Dankerk
+				La manche
+				Lille
+					Euralille
+				Touquet
+		Srbija
+			{Serbia}
+			{Serbie}
+			Beograd
+				{Belgrade}
+	[General]
+		Cafe
+		City
+		Park
+		Street
+[Size]
+	Small
+		Miniature
+Style
+	Casual
+	Elegant
+	Fancy
+	Hipster
+	Pin-up
+		{Pinup}
+	Shiny
+	Stripes
+	Stylish
+	Wet
+[Time and date]
+	[Season]
+		Autumn
+			{Fall}
+		Spring
+		Summer
+		Winter
+	[Time of day]
+		Dawn
+		Morning
+		Night
+		Sunset
+			{Dusk}
+		
+[Topics]
+	Après-ski
+	Banking
+	Capital cities
+	Childbirth
+	City break
+	Death
+	Eco tourism
+	Economy
+		Bank
+		Bills
+		Business
+		Change
+		Coins
+		Credit
+		Crisis
+		Currency
+		Deposit
+		Earnings
+		Euro
+		Euros
+		Finance
+		Inflation
+		Money
+		Pennies
+		Piggybank
+		Purchase
+		Recession
+		Saving
+			{Save}
+	Education
+	Global business
+	Life events
+	Lifestyles
+	Lonely
+		{Desolate}
+	Poorness
+	Population explosion
+	Product
+	Retirement
+	Traditional culture
+	Travel
+		Business travel
+		Travel destinations
+	Urban scene
+	Vacations
+	Work romance
+	Working overtime
+Transportation
+	Aircraft
+		[Fixed-wing]
+			Airplane
+				{Aeroplane}
+				Airliner
+				Powered glider
+					Motor glider
+					Powered hang glider
+					Powered parachute
+					Powered paraglider
+						{Paramotor}
+				Seaplane
+			Glider
+				Hang glider
+				Paraglider
+			Kite
+		[Rotocraft]
+			Autogyro
+			Helicopter
+	Boat
+		Jacht
+		Sailboat
+			{Sailing boat}
+	Metro
+		{Subway}
+	Train
+[Weather]
+	Air
+		Fog
+		Haze
+		Heat mirage
+		Mist
+		Pollution
+		Smog
+	Clouds
+		Altocumulus
+		Altostratus
+		Cirrocumulus
+		Cirrostratus
+		Cirrus
+		Contrail
+		Cumulonimbus
+		Cumulus
+		Nacreous
+		Nimbostratus
+		Noctilucent
+		Stratocumulus
+		Stratus
+	Dew
+	Drought
+	Electrical storm
+	Ice
+		Frost
+		Hail
+		Ice storm
+		Sleet
+	Lightning
+		Ball lightning
+		Bead lightning
+		Fork lightning
+		Ribbon lightning
+		Sheet lightning
+	Rain
+		Cloudburst
+		Downpour
+		Drizzle
+		Flash flood
+		Freezing rain
+		Monsoon
+		Raindrops
+		Shower
+	Rainbow
+	Snow
+		Blizzard
+		Sleet
+		Snow flurry
+		Snow shower
+		Snow storm
+	Squall
+	Storm
+	Sunshine
+	Thunderstorm
+	Tidal wave
+	Tsunami
+	Waterspout
+	Whirlpool
+	Wind
+		Cyclone
+		Dust devil
+		Dust storm
+		Gale
+		Hurricane
+		Sandstorm
+		Tornado
+		Tropical storm
+		Twister
+		Typhoon
+		Whirlwind
+		Zephyr
