@@ -1,3 +1,702 @@
+
+[WORLD REGIONS & COUNTRIES]
+	Africa
+		Algeria
+		Angola
+		Ascension Island
+		Benin
+		Botswana
+		Burkina Faso
+		Burundi
+		Cameroon
+		Cape Verde
+		Central African Republic
+		Chad
+		Comoros
+		Congo
+			{Congo-Brazzaville}
+			{Republic of the Congo}
+			{ROC}
+		Côte d'Ivorie
+			{Ivory Coast}
+		Democratic Republic of the Congo
+			{Congo-Kinshasa}
+			{DRC}
+		Djibouti
+		Egypt
+		Equatorial Guinea
+		Eritrea
+		Ethiopia
+		Gabon
+		Gambia
+		Ghana
+		Guinea
+		Guinea-Bissau
+		Kenya
+		Lesotho
+		Liberia
+		Libya
+		Madagascar
+		Malawi
+		Mali
+		Mauritania
+		Mauritius
+		Morocco
+		Mozambique
+		Namibia
+		Niger
+		Nigeria
+		Rwanda
+		Saint Helena Island
+		Sao Tome and Principe
+		Senegal
+		Seychelles
+		Sierra Leone
+		Somalia
+		South Africa
+		Sudan
+		Swaziland
+		Tanzania
+		Togo
+		Tunisia
+		Uganda
+		Western Sahara
+		Zaire
+		Zambia
+		Zimbabwe
+	Antarctica
+		{Antarctic}
+		French Southern Territories
+		Kerguelen Archipelago
+		Macquarie Island
+		Ross Island
+		South Georgia Island
+		Subantartic Islands
+	Arctic
+	Asia
+		Afghanistan
+		Armenia
+		Azerbaijan
+		Bahrain
+		Bangladesh
+		Bhutan
+		Brunei
+		Cambodia
+		Central Asia
+		China
+		East Timor
+			{Timor Timur}
+		Far East
+		Georgia
+		Hong Kong
+		India
+			Karnataka
+				Bangalore
+				Hampi
+				Mysore
+			Tamil Nadu
+				Madras
+				Mahabalipuram
+					{Malibalipuram}
+			West Bengal
+				Burdwan
+					{Bardhaman}
+					{Barddhaman}
+				Calcutta
+				Sanpar
+		Indonesia
+		Iran
+		Iraq
+		Israel
+		Japan
+		Jordan
+		Kazakhstan
+		Korea
+		Kuwait
+		Kyrgyzstan
+		Laos
+			{Lao People's Democratic Republic}
+		Lebanon
+		Macau
+			{Macao}
+		Malaysia
+		Maldives
+		Mongolia
+		Myanmar
+		Nepal
+		North Korea
+		Oman
+		Pakistan
+		Philippines
+		Qatar
+		Russia
+		Saudi Arabia
+		Singapore
+		South Korea
+		Sri Lanka
+		Syria
+		Taiwan
+		Tajikistan
+		Thailand
+		Tibet
+		Turkey
+		Turkmenistan
+		United Arab Emirates
+		Uzbekistan
+		Vietnam
+		Yemen
+	Caribbean
+		Anguilla
+		Antigua and Barbuda
+		Aruba
+		Bahamas
+		Barbados
+		Bequia
+		Bermuda
+		Bonaire
+		British Virgin Islands
+		Cayman Islands
+		Cuba
+		Curacao
+		Dominica
+		Dominican Republic
+		Grenada
+		Guadeloupe
+		Haiti
+		Jamaica
+		Martinique
+		Montserrat
+		Netherland Antilles
+		Puerto Rico
+		Saba
+		Saint Barthelemy
+			{St. Barthelemy}
+		Saint Eustatius
+			{St. Eustatius}
+		Saint Kitts and Nevis
+			{St. Kitts}
+		Saint Lucia
+			St. Lucia
+		Saint Martin
+			{St. Martin}
+			{Sint Maarten}
+		Saint Vincent and the Grenadin
+		Trinidad and Tobago
+		Turks and Caicos Islands
+		U.S. Virgin Islands
+	Central America
+		Belize
+		Costa Rica
+		El Salvador
+		Guatemala
+		Honduras
+		Nicaragua
+		Panama
+	Europe
+		Albania
+		Andorra
+		Austria
+		Belarus
+		Belgium
+		Bosnia and Herzegovina
+		Bulgaria
+		Croatia
+		Czech Republic
+		Denmark
+		Eastern Europe
+		England
+		Estonia
+		Faeroe Islands
+		Finland
+		France
+		Germany
+		Greece
+		Hungary
+		Iceland
+		Ireland
+		Italy
+		Latvia
+		Liechtenstein
+		Lithuania
+		Luxembourg
+		Malta
+		Moldova
+			Republic of Moldova
+		Monaco
+		Netherlands
+		Norway
+		Poland
+		Portugal
+		Romania
+		Russia
+		San Marino
+		Scotland
+		Slovakia
+		Slovenia
+		Spain
+		Sweden
+		Switzerland
+		The Former Republic of Macedonia
+		Turkey
+		Ukraine
+		United Kingdom
+			{Britain}
+			{British}
+			{British Isles}
+			{Great Britain}
+			{U.K.}
+			{UK}
+			Aberdeenshire
+			Anglesey
+			Angus
+			Argyllshire
+			Ayrshire
+			Banffshire
+			Bedfordshire
+				{BDF}
+				{Beds}
+				{Beds.}
+			Berkshire
+				{Berks}
+				{Berks.}
+				{BRK}
+			Brecknockshire
+			Buckinghamshire
+				{BKM}
+				{Bucks}
+				{Bucks.}
+			Buteshire
+			Caernarfonshire
+			Caithness
+			Cambridgeshire
+				{CAM}
+				{Cambs}
+				{Cambs.}
+			Cardiganshire
+			Carmarthenshire
+			Channel Isles
+			Cheshire
+				{CHS}
+			Clackmannanshire
+			Cornwall
+				{CON}
+			County Antrim
+			County Armagh
+			County Down
+			County Durham
+				{DUR}
+			County Fermanagh
+			County Tyrone
+			Cumberland
+				{CUL}
+			Denbighshire
+			Derbyshire
+				{DBY}
+				{Derbys}
+				{Derbys.}
+			Devon
+				{DEV}
+			Dorset
+				{DOR}
+			Dumfriesshire
+			Dunbartonshire
+			East Lothian
+			East Sussex
+			Essex
+				{ESS}
+			Fife
+			Flintshire
+			Glamorgan
+			Gloucestershire
+				{Gloucs}
+				{Gloucs.}
+				{GLS}
+			Hampshire
+				{HAM}
+				{Hants}
+				{Hants.}
+			Herfordshire
+				{HEF}
+				{Hereford}
+			Hertfordshire
+				{Herts}
+				{Herts.}
+				{HRT}
+			Huntingdonshire
+				{HUN}
+				{Hunts}
+				{Hunts.}
+			Inverness-shire
+			Isle of Islay
+			Isle of Lewis
+			Isle of Man
+			Isle of Skye
+			Isle of Wight
+			Kent
+				{KEN}
+			Kincardineshire
+			Kinross-Shire
+			Kirkcudbrightshire
+			Lanarkshire
+			Lancashire
+				{LAN}
+				{Lancs}
+				{Lancs.}
+			Leicestershire
+				{LEI}
+				{Leics}
+				{Leics.}
+			Lincolnshire
+				{LIN}
+				{Lincs}
+				{Lincs.}
+			London
+				{LND}
+			Merioneth
+			Middlesex
+				{MDX}
+				{Middx}
+				{Middx.}
+			Midlothian
+			Monmouthshire
+			Montgomeryshire
+			Morayshire
+			Nairnshire
+			Norfolk
+				{NFK}
+			Northhaptonshire
+				{Northants}
+				{Northants.}
+				{NTH}
+			Northumberland
+				{NBL}
+			Nottinghamshire
+				{Notts}
+				{Notts.}
+				{NTT}
+			Orkney
+			Oxfordshire
+				{OXF}
+				{Oxon}
+				{Oxon.}
+			Peebleshire
+			Pembrokeshire
+			Perthshire
+			Radnorshire
+			Ross-shire
+			Roxburgshire
+			Rutland
+				{RUT}
+			Selkirkshire
+			Shetland
+			Shropshire
+				{SAL}
+				{Salop}
+				{Salop.}
+			Somerset
+				{SOM}
+				{Somt}
+				{Somt.}
+			Staffordshire
+				{Staffs}
+				{Staffs.}
+				{STS}
+			Stirlingshire
+			Suffolk
+				{SFK}
+			Surrey
+				{SRY}
+			Sussex
+				{SSX}
+			Sutherland
+			Warwickshire
+				{Warks}
+				{Warks.}
+			West Lothian
+			Westmorland
+				{WES}
+			Wigtownshire
+			Wiltshire
+				{WIL}
+				{Wilts}
+				{Wilts.}
+			Worcestershire
+				{WOR}
+				{Worcs}
+				{Worcs.}
+			Yorkshire
+				{YKS}
+				{Yorks}
+				{Yorks.}
+		Vatican City
+			{Holy See}
+			{State of the Vatican City}
+		Yugoslavia
+			{Montenegro}
+			{Serbia}
+	Mediterranean
+		Albania
+		Algeria
+		Corsica
+		Croatia
+		Cyprus
+		Egypt
+		France
+		French Riviera
+		Gibraltar
+		Greece
+		Israel
+		Italy
+		Lebanon
+		Libya
+		Malta
+		Monaco
+		Morocco
+		Slovenia
+		Spain
+		Syria
+		Tunisia
+		Turkey
+	Middle East
+		Bahrain
+		Cyprus
+		Egypt
+		Iran
+		Iraq
+		Israel
+		Jordan
+		Kuwait
+		Lebanon
+		Oman
+		Palestinian Authority
+		Qatar
+		Saudi Arabia
+		Syria
+		Turkey
+		United Arab Emirates
+		Yemen
+	North America
+		Canada
+			Central Canada
+				{Central provinces}
+				Quebec
+				Ontario
+			Eastern Canada
+				Atlantic Canada
+					{Atlantic Provinces}
+					Labrador
+						Labrador City
+					Maritime Provinces
+						{Canadian Maritimes}
+						{Maritimes}
+						New Brunswick
+							Fredericton
+							Moncton
+							Saint John
+						Nova Scotia
+							Halifax
+							New Glasgow
+							Sydney
+						Prince Edward Island
+							Charlottetown
+							Stratford
+							Summerside
+					Newfoundland
+						St. John's
+				Ontario
+
+					Ottawa
+					Toronto
+				Quebec
+					Longueuil
+					Montreal
+					Quebec City
+			Northern Canada
+				{Canadian North}
+				Northwest Territories
+					Yellowknife
+				Nunavut
+					Iqaluit
+				Yukon
+					Whitehorse
+			Western Canada
+				Canadian Prairies
+					{Prairie provinces}
+					Alberta
+						Calgary
+						Edmonton
+						Red Deer
+					Saskatchewan
+						Regina
+						Saskatoon
+					Manitoba
+						Brandon
+						Thompson
+						Winnipeg
+				British Columbia
+					Burnaby
+					Surrey
+					Vancouver
+					Victoria
+		Mexico
+		United States of America
+			{America}
+			{U.S.}
+			{United States}
+			{US}
+			{USA}
+			Alabama
+			Alaska
+			American Southwest
+			American West
+			Arizona
+			Arkansas
+			California
+				Los Angeles
+					{LA}
+					{City of Angels}
+				San Francisco
+			Colorado
+			Connecticut
+			Delaware
+			Florida
+			Georgia
+			Hawaii
+			Idaho
+			Illinois
+				Champaign
+				Chicago
+				Springfield
+				Urbana
+			Indiana
+			Iowa
+			Kansas
+			Kentucky
+			Louisiana
+			Maine
+			Maryland
+			Massachusetts
+			Michigan
+			midwest
+			Minnesota
+			Mississippi
+			Missouri
+			Montana
+			Nebraska
+			Nevada
+			New England
+			New Hampshire
+			New Jersey
+			New Mexico
+				Taos
+			New York
+				{Empire State}
+				New York
+					{Big Apple}
+					Manhattan
+			North Carolina
+			North Dakota
+			Ohio
+			Oklahoma
+			Oregon
+			Pacific Northwest
+			Pennsylvania
+			Puerto Rico
+			Rhode Island
+			South Carolina
+			South Dakota
+			Tennessee
+			Texas
+			Utah
+			Vermont
+			Virginia
+			Washington
+				Seattle
+			Washington DC
+				{Washington D.C.}
+				{District of Columbia}
+			West Virginia
+			Wisconsin
+			Wyoming
+	Oceania
+		American Samoa
+		Australia
+		Cook Islands
+		Federated States of Micronesia
+			{Micronesia}
+		Fiji
+		French Polynesia
+		Guam
+		Kiribati
+		Marshall Islands
+		Midway Islands
+		Nauru
+		New Caledonia
+		New Zealand
+		Northern Mariana Islands
+		Palau
+		Papua New Guinea
+			{New Guinea}
+		Pitcairn Islands
+		Rapa Nui
+			{Easter Island}
+		Samoa
+		Solomon Islands
+		Tahiti
+		Tonga
+		Tuvalu
+		Vanuatu
+		Wallis and Futuna
+	Pacific Rim
+		Australia
+		British Columbia
+		Chile
+		China
+		East Timor
+			{Timor Timur}
+		Hawaii
+		Hong Kong
+		Indonesia
+		Japan
+		Macau
+			{Macao}
+		Mexico
+		New Zealand
+		Pacific Northwest
+		Peru
+		Philippines
+		Singapore
+		South Korea
+		Taiwan
+		Thailand
+		Vietnam
+	Scandinavia
+		Denmark
+		Faeroe Islands
+		Finland
+		Iceland
+		Norway
+		Sweden
+	South America
+		Argentina
+		Bolivia
+		Brazil
+			{Brasil}
+		Chile
+		Columbia
+		Ecuador
+		Falkland Islands
+			{Islas Malvinas}
+		French Guiana
+		Guyana
+		Paraguay
+		Patagonia
+		Peru
+		Suriname
+		Uruguay
+		Venezuela
+	West Indies
+
 Activity
 	Cutting
 	Feeding
@@ -1253,7 +1952,7 @@ Style
 			{Dusk}
 		
 [Topics]
-	Après-ski
+	Après-ski
 	Banking
 	Capital cities
 	Childbirth
