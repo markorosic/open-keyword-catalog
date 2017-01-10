@@ -1,5 +1,5 @@
 
-[WORLD REGIONS & COUNTRIES]
+[Region&Countries]
 	Africa
 		Algeria
 		Angola
@@ -1905,40 +1905,7 @@ People
 		Back view
 		Front view
 		Side view
-[Places]
-	Europe
-		France
-			Champagne
-				Reims
-			Île-de-france
-				Paris
-					Arc de triomphe
-					Galeries lafayette hausmann
-					Jardin des tuleries
-					La defense
-					La tour eiffel
-					Le louvre
-					Musée d'orsay
-					Musée de cluny
-					Notre dame
-					Passerelle léopold sédar senghor
-					Place de la concorde
-					Saint-séverin
-					Tour montparnasse
-				Versaille
-			Nord-pas-de-calais
-				Arras
-				Berck
-				Dankerk
-				La manche
-				Lille
-					Euralille
-				Touquet
-		Srbija
-			{Serbia}
-			{Serbie}
-			Beograd
-				{Belgrade}
+
 	[General]
 		Cafe
 		City
